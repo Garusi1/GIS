@@ -13,7 +13,7 @@ public class MetaData implements Meta_data{
 	public long utc;
 	public String  utcName;
 	public LocalDateTime ldt;
-	
+	//
 	public LocalDateTime correntTime (MyGisElement p) { // returns the Utc number for example: israel = 2
 		LocalDateTime ldt = LocalDateTime.now();
 		return ldt;
