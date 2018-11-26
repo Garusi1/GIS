@@ -8,7 +8,7 @@ public class CSVReader {
 
     public static void main(String[] args) 
     {
-        String csvFile = "WigleWifi_20171201110209.csv";
+        String csvFile = "student2.csv";
         String line = "";
         String cvsSplitBy = ",";
 

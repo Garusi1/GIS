@@ -1,11 +1,9 @@
 package Coords;
-import static org.junit.jupiter.api.Assertions.*;
 
-import java.awt.Point;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.jupiter.api.Test;
-
-import com.sun.xml.internal.ws.policy.PolicyIntersector;
 
 import Geom.Point3D;
 

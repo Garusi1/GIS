@@ -1,13 +1,10 @@
 package Coords;
-import Coords.MyCoords;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.awt.Point;
 
 import com.sun.javafx.geom.AreaOp.AddOp;
 
-import Coords.MyCoords;
 import Geom.Point3D;
 
 public class main {
